@@ -2,7 +2,7 @@
 C++ working flow of a cargo company simulation
 
 
-
+![alt tag]( discrete-event-simulation/layout_pics/layout1.png )
 # Input
 * First line is the number of first-level units (N).
 * Next N lines contain process time information of the first-level units.
